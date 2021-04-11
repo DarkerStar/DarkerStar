@@ -78,3 +78,16 @@ You can click the Preview link to take a look at your changes.
 [![Minetest (proficient)](https://img.shields.io/badge/Minetest-★★★☆☆-53ac56?style=for-the-badge&logo=minetest&logoColor=fff "Minetest (proficient)")](http://www.minetest.net/)
 [![Ren'Py (basic)](https://img.shields.io/badge/Ren%27Py-★★☆☆☆-ff7f7f?style=for-the-badge&logo=renpy&logoColor=fff "Ren'Py (basic)")](https://www.renpy.org/)
 -->
+
+## Crowdfunding
+
+### Liberapay
+
+[
+![Liberapay giving](https://img.shields.io/liberapay/gives/indi?style=for-the-badge&logoColor=fff "Liberapay giving")
+](https://liberapay.com/indi)
+
+[
+![Liberapay patrons](https://img.shields.io/liberapay/patrons/indi?style=for-the-badge&logoColor=fff "Liberapay patrons")
+![Liberapay receiving](https://img.shields.io/liberapay/receives/indi?style=for-the-badge&logoColor=fff "Liberapay receiving")
+](https://liberapay.com/indi)
