@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 [![C++ (expert)](https://img.shields.io/badge/C%2B%2B-★★★★★-00589c?style=for-the-badge&logo=c%2B%2B&logoColor=fff "C++ (expert)")](https://isocpp.org/)
 [![C (advanced)](https://img.shields.io/badge/C-★★★★☆-a8b9cc?style=for-the-badge&logo=c&logoColor=fff "C (advanced)")](http://www.open-std.org/jtc1/sc22/wg14/)
 [![Python (advanced)](https://img.shields.io/badge/Python-★★★★☆-2b5b84?style=for-the-badge&logo=python&logoColor=fff "Python (advanced)")](https://www.python.org/)
-[![Bash (advanced)](https://img.shields.io/badge/Bash-★★★★☆-4eaa25?style=for-the-badge&logo=gnubash&logoColor=fff "Bash (advanced)")](https://www.gnu.org/software/bash/)
+[![Bash (advanced)](https://img.shields.io/badge/Bash-★★★★☆-4eaa25?style=for-the-badge&logo=gnu-bash&logoColor=fff "Bash (advanced)")](https://www.gnu.org/software/bash/)
 [![Rust (beginner)](https://img.shields.io/badge/Rust-★☆☆☆☆-000?style=for-the-badge&logo=rust&logoColor=fff "Rust (beginner)")](https://www.rust-lang.org/)
 
 ### Web development
