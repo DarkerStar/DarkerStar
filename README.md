@@ -91,3 +91,22 @@ You can click the Preview link to take a look at your changes.
 ![Liberapay patrons](https://img.shields.io/liberapay/patrons/indi?style=for-the-badge&logoColor=fff "Liberapay patrons")
 ![Liberapay receiving](https://img.shields.io/liberapay/receives/indi?style=for-the-badge&logoColor=fff "Liberapay receiving")
 ](https://liberapay.com/indi)
+
+## Social
+
+### GitHub
+
+[
+![GitHub followers](https://img.shields.io/github/followers/darkerstar?style=for-the-badge&logoColor=fff "GitHub followers")
+![GitHub stars](https://img.shields.io/github/stars/DarkerStar?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logoColor=fff "GitHub stars")
+![GitHub sponsors](https://img.shields.io/github/sponsors/DarkerStar?style=for-the-badge&logoColor=fff "GitHub sponsors")
+](https://github.com/DarkerStar)
+
+[
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=darkerstar&show_icons=true&hide_title=true "GitHub stats")
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darkerstar&layout=compact "Most used languages")
+](https://github.com/darkerstar)
+
+### StackExchange network
+
+[![CodeReview reputation](https://img.shields.io/stackexchange/codereview/r/170106?style=for-the-badge&logoColor=fff "CodeReview reputation")](https://codereview.stackexchange.com/users/170106/indi)
